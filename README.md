@@ -30,4 +30,4 @@ en este caso ya se agregó. Edite `title:`, `subtitle:`, `author:`, `keywords:` 
 1. Haber descargado (Quarto)[https://quarto.org/docs/download/]
 2. Instalar la extensión `Quarto` en vscode
 
-Luego ctrl/cmd shift K
+Luego digite: ctrl/cmd shift K
