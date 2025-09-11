@@ -5,13 +5,17 @@ author: "Carlos Lesmes"
 description: "This is a test"
 institute: "USTA"
 date: "09/11/2025"
-abstract: "YAML"
+format:
+  html:
+    embed-resources: true
+    toc: true
+    theme:
+      light: flatly
+      dark: darkly
 keywords: 
   - Markdown
   - LaTeX
-tags:
-  - tag1
-  - tag2
+lang: es
 ---
 
 
