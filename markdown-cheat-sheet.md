@@ -1,3 +1,21 @@
+---
+title: "Page Title"
+subtitle: "Page sub-title"
+author: "Carlos Lesmes"
+description: "This is a test"
+institute: "USTA"
+date: "09/11/2025"
+abstract: "YAML"
+keywords: 
+  - Markdown
+  - LaTeX
+tags:
+  - tag1
+  - tag2
+---
+
+
+
 # Markdown Cheat Sheet
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
@@ -75,6 +93,13 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 }
 ```
 
+```r
+norm <- function(x) {
+  sqrt(x%*%x)
+}
+norm(1:4)
+```
+
 ### Footnote
 
 Here's a sentence with a footnote. [^1]
@@ -117,3 +142,7 @@ H~2~O
 ### Superscript
 
 X^2^
+
+### Math
+
+$$\int_0^1 \frac{1}{x} \, dx$$
