@@ -3,6 +3,7 @@ Este proyecto es una aplicación web simple para tomar notas en formato Markdown
 
 Vea el archivo markdown-cheat-sheet.md en VSCode, este es un archivo Markdown común y corriente. Agregue el `yaml` al comienzo del archivo:
 
+```yaml
 ---
 title: "Page Title"
 subtitle: "Page sub-title"
@@ -22,6 +23,7 @@ keywords:
   - LaTeX
 lang: es
 ---
+```
 
 en este caso ya se agregó. Edite `title:`, `subtitle:`, `author:`, `keywords:` y `date:` según sus necesidades.
 
