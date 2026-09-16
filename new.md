@@ -18,3 +18,4 @@ end
 values = [2, 8, 32]
 println(geometric_mean(values))
 ```
+## titulo 2
