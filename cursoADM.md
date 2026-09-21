@@ -67,3 +67,4 @@
    - **Building Confidence**:
      - **Interactive Examples**: Work through step-by-step examples to illustrate statistical concepts and their application in R.
      - **Supplementary Resources**: Offer additional resources such as online tutorials, articles, and textbooks to deepen understanding.
+
